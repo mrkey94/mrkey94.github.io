@@ -1,0 +1,79 @@
+[Adblock Plus 2.0]
+! Title: LK list
+! Last modified: 4 Nov 2015 08:20 UTC
+! Expires: 7 days (update frequency)
+! Homepage: http://langkhach.org
+! Licence: LK Production
+! Please report any unblocked adverts or problems
+! via e-mail: LK@langkhach.org
+! ---------- Generic Blocking Rules ----------
+codejava.net##.wf-email
+facebook.com###u_ps_0_4_0
+facebook.com##.ego_section
+forum.bkav.com.vn###slider1_container
+forum.bkav.com.vn##.block.smaller.border_bolock_slidebar
+forum.bkav.com.vn##.l-small.canvas-widget-list.section-1.js-sectiontype-secondary.has-adjacent-left-col.l-col__fixed-6.l-col__small--full
+gamek.vn##.detailbt
+hayta.vn##.bold
+hayta.vn##.main-right-title
+hayta.vn##.sement
+http://123.30.50.161/ad/
+http://3.bp.blogspot.com/-TTXuNxCBBP4/UOpgKkI87GI/AAAAAAAAAoY/TFqVUQZ-6lc/s1600/download.easy.vn_790x100.gif
+http://4.bp.blogspot.com/-A9fxfh09VM0/UP-7oYlaAoI/AAAAAAAAAoo/oCvoQUYqB0o/s1600/195x163.jpg
+http://adrotator.se/
+http://cab.vn/static/images/rishi.gif
+http://farm3.staticflickr.com/2843/11886132844_c8ce9e23cf_o.jpg
+http://farm6.staticflickr.com/5524/11885988363_8e0234e38a_o.jpg
+http://forum.gamevn.com/images/dongxuan.gif
+http://hayta.vn/_graphics/click.jpg
+http://hayta.vn/_graphics/collect.jpg
+http://i66.photobucket.com/albums/h247/haily89/ads_holder6.png
+http://truongton.net/forum/images/right_banner/banner%28cau%20truong%292.jpg
+http://vemba.com/i/?z=22
+http://widget.zini.vn/wg/tweet?uid=101027374
+http://xemtivi.com.vn/wp-content/themes/xemtivi7/images/xem-tivi.png
+https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-frc3/1044702_626467994031803_1545461860_n.jpg
+https://lh6.googleusercontent.com/-7NCl_V-SsCU/UZ7yw5GYI0I/AAAAAAAAANI/-dHLjfywhz8/h109/videofacebook.gif
+hulkload.com##div[style="padding-top:5px;float:left;width:100%;font-size:13px;line-height:26px;height:31px;top: 12px;z-index:9999;text-align:left"]
+megagames.com##.adblock-message
+nghean24h.vn##.wrapper.sub-belowmenu
+nghean24h.vn##.wrapper.sub-topmenu
+nghean24h.vn##table[style="width:336px;margin:0 auto"]
+nulledxf.com##.errorOverlay
+pri.org##.promo-box--promo.panel-pane.pane-block.pane-dfp-pri-ros-atf-300x600.jquery-once-7-processed
+sv.fpt.edu.vn##.VietXfAdvStats.sectionMain
+tinhte.meo4.info###meo4vnn_qc1
+tutorialspoint.com##.bottomadtag
+tutorialspoint.com##.bottomgooglead
+tutorialspoint.com##.topgooglead
+www.game-debate.com###roadblock-contain-main
+www.game-debate.com##.loadIn300by250
+www.game-debate.com##.loadIn728by90
+www.slideshare.net##.j-socialActions
+www.slideshare.net##.public-only
+www.slideshare.net##.socialActions
+www.slideshare.net##.socialVisible
+ygorganization.com###picAd
+zenfonevn.com###g207
+||cdn.adbrau.com/mg/
+||cdn.adbrau.com/mg/index.php?r=49&b=bar&n=Street_Fighter%28Van_Damme%29%5B1994%5DDvDrip%5BEng%5D-prithwi&m=magnet%3A%3Fxt%3Durn%3Abtih%3Af154b3b5b97c169c25c23c7e3452f46321c5c151%26dn%3DStreet%2BFighter%2528Van%2BDamme%2529%255B1994%255DDvDrip%255BEng%255D-prithwi%26tr%3Dudp%253A%252F%252Fopen.demonii.com%253A1337%26tr%3Dudp%253A%252F%252Ftracker.coppersurfer.tk%253A6969%26tr%3Dudp%253A%252F%252Ftracker.leechers-paradise.org%253A6969%26tr%3Dudp%253A%252F%252Fexodus.desync.com%253A6969
+||cdn.phimnhanh.net/mybet88.gif
+||forum.bkav.com.vn/images/Banner_BkavForum/Home.jpg
+||i.imgur.com/n7DPnDa.png
+||i.ytimg.com/an/p-yY0F1wgZ1CUnh3upZLBQ/featured_channel.jpg?v=54d83794
+||k14.vcmedia.vn//000fd7c678/2015/09/07/JAM-Ponds-Demo-ChanTrang-93260.gif
+||majorgeeks.com/mg/mg.html
+||media6.tiin.vn/medias12/2015/08/17/12d9e714e2fbfdf0a8e0f4076da12d29e57e262b.jpg
+||nghean24h.vn/uploads/340x100-vinh.swf
+||nghean24h.vn/uploads/baovehoasenfull.gif
+||nghean24h.vn/uploads/donghochutin-26-12-2014-full.jpg
+||nghean24h.vn/uploads/koss768987.gif
+||nghean24h.vn/uploads/minhxuanspafull.gif
+||nghean24h.vn/uploads/moiquangcao180x250.jpg
+||nghean24h.vn/uploads/nghean24hmoiquangcao-300x250.png
+||nghean24h.vn/uploads/quangthai21-9.gif
+||nghean24h.vn/uploads/rangxinhthang9-2015.swf
+||nghean24h.vn/uploads/su2.gif
+||oni.vn/data/Flash/l6KUt1420891893.jpg
+||static.liva.vn/images/0/0/47/48846.gif
+||tinhocbinhduong.com/forum/LHQC.swf
