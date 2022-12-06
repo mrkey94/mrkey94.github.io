@@ -1,0 +1,3 @@
+VersionNumber|2.3.29-offical
+Address|http://tamquocsat.langkhach.org?date=20220623
+ChangeLog|<b>Bản 2.3.28</b><br/><br/>- Sửa lỗi AI Himiko<br/>- Trương Xuân Hoa - Quả Quyết chỉ gây sát thương khi không có ai đang hấp hối<br/>- Thêm tướng mới Lưu Phu Nhân.
