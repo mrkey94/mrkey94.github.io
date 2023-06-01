@@ -1,3 +1,3 @@
-VersionNumber|2.3.35-offical2
-Address|http://tamquocsat.langkhach.org?date=20221130
-ChangeLog|<b>Bản 2.3.35.2</b><br><br>- Hotfix bot không chơi game<br>- Sửa lại Lữ Linh Khởi + Lý Nghiêm
+VersionNumber|2.3.40-offical
+Address|http://tamquocsat.langkhach.org?date=20230601
+ChangeLog|<b>Bản 2.3.40</b><br><br>- Sửa rất nhiều sau nửa năm bận rộn. Vui lòng xem tại link trên.
