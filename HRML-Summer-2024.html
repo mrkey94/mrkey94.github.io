@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Chart</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id="chart"></div>
+
+    <script>
+        var data = [
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, -12.70, -22.10, 33.80, 54.40, 72.50, 94.40, 65.90, 26.80],
+                mode: 'lines+markers',
+                name: 'Chinh'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, -11.90, 16.60, -19.10, 21.60, 50.10, 87.10, 102.50, 97.50],
+                mode: 'lines+markers',
+                name: 'Minh Anh'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, -3.80, -42.10, -5.90, 30.00, 35.10, 8.60, 0.10, 10.80],
+                mode: 'lines+markers',
+                name: 'Thiên Yết'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, -38.20, -0.10, -12.80, -42.50, -66.50, -46.10, -53.30, -95.50],
+                mode: 'lines+markers',
+                name: 'Lãng Khách'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, -2.30, -14.70, 1.00, -17.50, -12.70, -18.00, -63.50, -77.00],
+                mode: 'lines+markers',
+                name: 'Jack'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, 11.20, -4.30, -31.90, -42.00, -20.30, -45.30, -45.70, -70.80],
+                mode: 'lines+markers',
+                name: 'Huy Bùi'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, 32.10, -9.80, -7.10, 8.20, -19.50, -27.60, -36.20, -18.90],
+                mode: 'lines+markers',
+                name: 'Dũng Thái'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, -27.50, -39.90, -85.80, -98.60, -108.70, -125.70, -84.90, -124.70],
+                mode: 'lines+markers',
+                name: 'Trung 3T'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, 10.50, 12.10, -28.10, 1.80, 10.40, 18.80, 36.10, 41.70],
+                mode: 'lines+markers',
+                name: 'Thành Wintrr'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, 23.50, -13.30, 60.00, 19.60, 52.20, 10.80, 37.40, 13.10],
+                mode: 'lines+markers',
+                name: 'Kiba'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, 26.30, 31.90, -10.00, 6.00, -2.20, 28.50, 65.20, 55.70],
+                mode: 'lines+markers',
+                name: 'Trường'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, -0.70, 11.10, 7.30, 14.80, -11.20, -21.80, -33.70, -1.50],
+                mode: 'lines+markers',
+                name: 'Hoàng'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, 28.20, 37.80, 38.20, 5.10, -4.60, 20.40, -24.50, 8.90],
+                mode: 'lines+markers',
+                name: 'Việt'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, -24.90, -19.30, -35.50, 1.20, -5.10, -1.20, 7.90, -9.70],
+                mode: 'lines+markers',
+                name: 'Khami'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, -30.20, -11.00, 41.20, 0.10, -38.30, -30.90, 13.50, 90.30],
+                mode: 'lines+markers',
+                name: 'Yuki'
+            },
+            {
+                x: [0, 1, 2, 3, 4, 5, 6, 7, 8],
+                y: [0.00, 8.40, 43.10, 29.70, 12.80, 43.80, 22.00, -12.80, 15.30],
+                mode: 'lines+markers',
+                name: 'Vũ Hikki'
+            }
+        ];
+
+        var layout = {
+            title: 'Performance Over Time',
+            xaxis: {
+                title: 'Points',
+                tickmode: 'linear',
+                tick0: 0,
+                dtick: 1
+            },
+            yaxis: {
+                title: 'Values'
+            },
+            legend: {
+                orientation: "h",
+                yanchor: "bottom",
+                y: 1.02,
+                xanchor: "right",
+                x: 1
+            }
+        };
+
+        Plotly.newPlot('chart', data, layout);
+    </script>
+</body>
+</html>
